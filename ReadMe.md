@@ -13,19 +13,19 @@
 
 ## 4. Modeling
 
-1. Analyse de forme : 
+### 1. Analyse de forme : 
 Identifier la target
 Nombre de ligne et de colonnes
 Type de variables 
 Identifier les valeurs manquantes
 
-2. Analyse de fond :
+### 2. Analyse de fond :
 Visualiser la target 
 Compréhension des differentes varibales
 Visualiser les relations features-target 
 Identifier les outils
 
-## Trnasformer le dataset pour le mettre au format du ML
+## Transformer le dataset pour le mettre au format du ML
 1. Creation des Train set / Test set
 2. Elimination des Nan
 3. Encodage
