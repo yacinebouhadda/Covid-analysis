@@ -14,14 +14,14 @@
 ## 4. Modeling
 
 ### 1. Analyse de forme : 
-    Identifier la target
-    Nombre de ligne et de colonnes
-    Type de variables 
-    Identifier les valeurs manquantes
+    Identifier la target  "df.describe()"  
+    Nombre de ligne et de colonnes "pd.shape"
+    Type de variables" value_counts"
+    Identifier les valeurs manquantes "pandas"
 
 ### 2. Analyse de fond :
-    Visualiser la target 
-    Compréhension des differentes varibales
+    Visualiser la target  "10% de cas posiif"
+    Compréhension des differentes varibales "float, int, subject"
     Visualiser les relations features-target 
     Identifier les outils
 
